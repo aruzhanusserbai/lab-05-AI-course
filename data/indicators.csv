@@ -1,0 +1,6 @@
+indicator,unit,definition
+population,thousand persons,Resident population at the start of the year.
+avg_monthly_wage,KZT,Average nominal monthly wage per employee.
+unemployment_rate,%,"Unemployed as a share of the labour force, annual average."
+cpi_yoy,%,"Consumer price index, change against the previous year."
+retail_trade,bn KZT,"Retail trade turnover for the year, current prices."

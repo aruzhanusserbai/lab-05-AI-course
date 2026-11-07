@@ -1,0 +1,656 @@
+region,year,indicator,value,unit,source
+Abai,2022,population,392.6,thousand persons,synthetic
+Abai,2022,avg_monthly_wage,433596,KZT,synthetic
+Abai,2022,unemployment_rate,5.2,%,synthetic
+Abai,2022,cpi_yoy,15.8,%,synthetic
+Abai,2022,retail_trade,1332.7,bn KZT,synthetic
+Abai,2023,population,397.6,thousand persons,synthetic
+Abai,2023,avg_monthly_wage,491935,KZT,synthetic
+Abai,2023,unemployment_rate,5.3,%,synthetic
+Abai,2023,cpi_yoy,14.7,%,synthetic
+Abai,2023,retail_trade,1487.9,bn KZT,synthetic
+Abai,2024,population,401.7,thousand persons,synthetic
+Abai,2024,avg_monthly_wage,552653,KZT,synthetic
+Abai,2024,unemployment_rate,5.1,%,synthetic
+Abai,2024,cpi_yoy,7.7,%,synthetic
+Abai,2024,retail_trade,1684.3,bn KZT,synthetic
+Abai,2025,population,405.2,thousand persons,synthetic
+Abai,2025,avg_monthly_wage,607382,KZT,synthetic
+Abai,2025,unemployment_rate,4.8,%,synthetic
+Abai,2025,cpi_yoy,12.4,%,synthetic
+Abai,2025,retail_trade,1975.3,bn KZT,synthetic
+Akmola,2019,population,709.6,thousand persons,synthetic
+Akmola,2019,avg_monthly_wage,261096,KZT,synthetic
+Akmola,2019,unemployment_rate,4.9,%,synthetic
+Akmola,2019,cpi_yoy,5.5,%,synthetic
+Akmola,2019,retail_trade,1628.9,bn KZT,synthetic
+Akmola,2020,population,715.2,thousand persons,synthetic
+Akmola,2020,avg_monthly_wage,302720,KZT,synthetic
+Akmola,2020,unemployment_rate,4.9,%,synthetic
+Akmola,2020,cpi_yoy,7.3,%,synthetic
+Akmola,2020,retail_trade,1873.3,bn KZT,synthetic
+Akmola,2021,population,722.7,thousand persons,synthetic
+Akmola,2021,avg_monthly_wage,344917,KZT,synthetic
+Akmola,2021,unemployment_rate,5.0,%,synthetic
+Akmola,2021,cpi_yoy,8.0,%,synthetic
+Akmola,2021,retail_trade,2068.0,bn KZT,synthetic
+Akmola,2022,population,733.4,thousand persons,synthetic
+Akmola,2022,avg_monthly_wage,399140,KZT,synthetic
+Akmola,2022,unemployment_rate,4.9,%,synthetic
+Akmola,2022,cpi_yoy,14.1,%,synthetic
+Akmola,2022,retail_trade,2470.3,bn KZT,synthetic
+Akmola,2023,population,742.4,thousand persons,synthetic
+Akmola,2023,avg_monthly_wage,432255,KZT,synthetic
+Akmola,2023,unemployment_rate,5.0,%,synthetic
+Akmola,2023,cpi_yoy,15.8,%,synthetic
+Akmola,2023,retail_trade,2679.1,bn KZT,synthetic
+Akmola,2024,population,752.5,thousand persons,synthetic
+Akmola,2024,avg_monthly_wage,492112,KZT,synthetic
+Akmola,2024,unemployment_rate,4.8,%,synthetic
+Akmola,2024,cpi_yoy,7.6,%,synthetic
+Akmola,2024,retail_trade,3203.8,bn KZT,synthetic
+Akmola,2025,population,763.7,thousand persons,synthetic
+Akmola,2025,avg_monthly_wage,563866,KZT,synthetic
+Akmola,2025,unemployment_rate,4.9,%,synthetic
+Akmola,2025,cpi_yoy,10.0,%,synthetic
+Akmola,2025,retail_trade,3581.5,bn KZT,synthetic
+Aktobe,2019,population,662.3,thousand persons,synthetic
+Aktobe,2019,avg_monthly_wage,251284,KZT,synthetic
+Aktobe,2019,unemployment_rate,4.7,%,synthetic
+Aktobe,2019,cpi_yoy,4.6,%,synthetic
+Aktobe,2019,retail_trade,1452.4,bn KZT,synthetic
+Aktobe,2020,population,669.4,thousand persons,synthetic
+Aktobe,2020,avg_monthly_wage,277514,KZT,synthetic
+Aktobe,2020,unemployment_rate,4.5,%,synthetic
+Aktobe,2020,cpi_yoy,7.5,%,synthetic
+Aktobe,2020,retail_trade,1738.7,bn KZT,synthetic
+Aktobe,2021,population,672.9,thousand persons,synthetic
+Aktobe,2021,avg_monthly_wage,305343,KZT,synthetic
+Aktobe,2021,unemployment_rate,4.2,%,synthetic
+Aktobe,2021,cpi_yoy,8.9,%,synthetic
+Aktobe,2021,retail_trade,2002.4,bn KZT,synthetic
+Aktobe,2022,population,686.5,thousand persons,synthetic
+Aktobe,2022,avg_monthly_wage,340025,KZT,synthetic
+Aktobe,2022,unemployment_rate,4.1,%,synthetic
+Aktobe,2022,cpi_yoy,15.6,%,synthetic
+Aktobe,2022,retail_trade,2356.1,bn KZT,synthetic
+Aktobe,2023,population,694.9,thousand persons,synthetic
+Aktobe,2023,avg_monthly_wage,394216,KZT,synthetic
+Aktobe,2023,unemployment_rate,4.1,%,synthetic
+Aktobe,2023,cpi_yoy,15.2,%,synthetic
+Aktobe,2023,retail_trade,2573.8,bn KZT,synthetic
+Aktobe,2024,population,699.3,thousand persons,synthetic
+Aktobe,2024,avg_monthly_wage,441057,KZT,synthetic
+Aktobe,2024,unemployment_rate,4.0,%,synthetic
+Aktobe,2024,cpi_yoy,7.8,%,synthetic
+Aktobe,2024,retail_trade,2855.8,bn KZT,synthetic
+Aktobe,2025,population,712.9,thousand persons,synthetic
+Aktobe,2025,avg_monthly_wage,493255,KZT,synthetic
+Aktobe,2025,unemployment_rate,3.7,%,synthetic
+Aktobe,2025,cpi_yoy,10.7,%,synthetic
+Aktobe,2025,retail_trade,3429.2,bn KZT,synthetic
+Almaty Region,2019,population,866.5,thousand persons,synthetic
+Almaty Region,2019,avg_monthly_wage,329611,KZT,synthetic
+Almaty Region,2019,unemployment_rate,4.7,%,synthetic
+Almaty Region,2019,cpi_yoy,5.6,%,synthetic
+Almaty Region,2019,retail_trade,2066.5,bn KZT,synthetic
+Almaty Region,2020,population,871.4,thousand persons,synthetic
+Almaty Region,2020,avg_monthly_wage,374403,KZT,synthetic
+Almaty Region,2020,unemployment_rate,4.9,%,synthetic
+Almaty Region,2020,cpi_yoy,6.7,%,synthetic
+Almaty Region,2020,retail_trade,2456.1,bn KZT,synthetic
+Almaty Region,2021,population,877.0,thousand persons,synthetic
+Almaty Region,2021,avg_monthly_wage,410475,KZT,synthetic
+Almaty Region,2021,unemployment_rate,4.6,%,synthetic
+Almaty Region,2021,cpi_yoy,7.1,%,synthetic
+Almaty Region,2021,retail_trade,2858.5,bn KZT,synthetic
+Almaty Region,2022,population,881.4,thousand persons,synthetic
+Almaty Region,2022,avg_monthly_wage,473557,KZT,synthetic
+Almaty Region,2022,unemployment_rate,4.5,%,synthetic
+Almaty Region,2022,cpi_yoy,14.6,%,synthetic
+Almaty Region,2022,retail_trade,3329.5,bn KZT,synthetic
+Almaty Region,2023,population,889.3,thousand persons,synthetic
+Almaty Region,2023,avg_monthly_wage,548705,KZT,synthetic
+Almaty Region,2023,unemployment_rate,4.4,%,synthetic
+Almaty Region,2023,cpi_yoy,15.1,%,synthetic
+Almaty Region,2023,retail_trade,3967.6,bn KZT,synthetic
+Almaty Region,2024,population,893.2,thousand persons,synthetic
+Almaty Region,2024,avg_monthly_wage,611385,KZT,synthetic
+Almaty Region,2024,unemployment_rate,4.5,%,synthetic
+Almaty Region,2024,cpi_yoy,8.5,%,synthetic
+Almaty Region,2024,retail_trade,4548.2,bn KZT,synthetic
+Almaty Region,2025,population,908.4,thousand persons,synthetic
+Almaty Region,2025,avg_monthly_wage,687670,KZT,synthetic
+Almaty Region,2025,unemployment_rate,4.3,%,synthetic
+Almaty Region,2025,cpi_yoy,12.0,%,synthetic
+Almaty Region,2025,retail_trade,5434.2,bn KZT,synthetic
+Atyrau,2019,population,849.5,thousand persons,synthetic
+Atyrau,2019,avg_monthly_wage,297637,KZT,synthetic
+Atyrau,2019,unemployment_rate,4.3,%,synthetic
+Atyrau,2019,cpi_yoy,4.5,%,synthetic
+Atyrau,2019,retail_trade,1956.1,bn KZT,synthetic
+Atyrau,2020,population,856.7,thousand persons,synthetic
+Atyrau,2020,avg_monthly_wage,326237,KZT,synthetic
+Atyrau,2020,unemployment_rate,4.3,%,synthetic
+Atyrau,2020,cpi_yoy,7.6,%,synthetic
+Atyrau,2020,retail_trade,2214.5,bn KZT,synthetic
+Atyrau,2021,population,873.3,thousand persons,synthetic
+Atyrau,2021,avg_monthly_wage,375688,KZT,synthetic
+Atyrau,2021,unemployment_rate,4.1,%,synthetic
+Atyrau,2021,cpi_yoy,7.4,%,synthetic
+Atyrau,2021,retail_trade,2555.6,bn KZT,synthetic
+Atyrau,2022,population,879.8,thousand persons,synthetic
+Atyrau,2022,avg_monthly_wage,422816,KZT,synthetic
+Atyrau,2022,unemployment_rate,3.7,%,synthetic
+Atyrau,2022,cpi_yoy,14.0,%,synthetic
+Atyrau,2022,retail_trade,2937.5,bn KZT,synthetic
+Atyrau,2023,population,887.3,thousand persons,synthetic
+Atyrau,2023,avg_monthly_wage,494314,KZT,synthetic
+Atyrau,2023,unemployment_rate,3.5,%,synthetic
+Atyrau,2023,cpi_yoy,14.8,%,synthetic
+Atyrau,2023,retail_trade,3382.9,bn KZT,synthetic
+Atyrau,2024,population,904.2,thousand persons,synthetic
+Atyrau,2024,avg_monthly_wage,558580,KZT,synthetic
+Atyrau,2024,unemployment_rate,3.7,%,synthetic
+Atyrau,2024,cpi_yoy,9.5,%,synthetic
+Atyrau,2024,retail_trade,3851.5,bn KZT,synthetic
+Atyrau,2025,population,915.1,thousand persons,synthetic
+Atyrau,2025,avg_monthly_wage,653098,KZT,synthetic
+Atyrau,2025,unemployment_rate,3.5,%,synthetic
+Atyrau,2025,cpi_yoy,10.4,%,synthetic
+Atyrau,2025,retail_trade,4493.6,bn KZT,synthetic
+East Kazakhstan,2019,population,846.1,thousand persons,synthetic
+East Kazakhstan,2019,avg_monthly_wage,312781,KZT,synthetic
+East Kazakhstan,2019,unemployment_rate,4.5,%,synthetic
+East Kazakhstan,2019,cpi_yoy,5.4,%,synthetic
+East Kazakhstan,2019,retail_trade,1377.4,bn KZT,synthetic
+East Kazakhstan,2020,population,853.5,thousand persons,synthetic
+East Kazakhstan,2020,avg_monthly_wage,363297,KZT,synthetic
+East Kazakhstan,2020,unemployment_rate,4.3,%,synthetic
+East Kazakhstan,2020,cpi_yoy,6.1,%,synthetic
+East Kazakhstan,2020,retail_trade,1520.8,bn KZT,synthetic
+East Kazakhstan,2021,population,859.6,thousand persons,synthetic
+East Kazakhstan,2021,avg_monthly_wage,395436,KZT,synthetic
+East Kazakhstan,2021,unemployment_rate,4.1,%,synthetic
+East Kazakhstan,2021,cpi_yoy,8.0,%,synthetic
+East Kazakhstan,2021,retail_trade,1656.4,bn KZT,synthetic
+East Kazakhstan,2022,population,873.5,thousand persons,synthetic
+East Kazakhstan,2022,avg_monthly_wage,456689,KZT,synthetic
+East Kazakhstan,2022,unemployment_rate,3.7,%,synthetic
+East Kazakhstan,2022,cpi_yoy,14.8,%,synthetic
+East Kazakhstan,2022,retail_trade,1965.5,bn KZT,synthetic
+East Kazakhstan,2023,population,890.2,thousand persons,synthetic
+East Kazakhstan,2023,avg_monthly_wage,506787,KZT,synthetic
+East Kazakhstan,2023,unemployment_rate,3.8,%,synthetic
+East Kazakhstan,2023,cpi_yoy,14.2,%,synthetic
+East Kazakhstan,2023,retail_trade,2217.2,bn KZT,synthetic
+East Kazakhstan,2024,population,897.9,thousand persons,synthetic
+East Kazakhstan,2024,avg_monthly_wage,555859,KZT,synthetic
+East Kazakhstan,2024,unemployment_rate,3.9,%,synthetic
+East Kazakhstan,2024,cpi_yoy,8.1,%,synthetic
+East Kazakhstan,2024,retail_trade,2450.2,bn KZT,synthetic
+East Kazakhstan,2025,population,916.6,thousand persons,synthetic
+East Kazakhstan,2025,avg_monthly_wage,636905,KZT,synthetic
+East Kazakhstan,2025,unemployment_rate,3.9,%,synthetic
+East Kazakhstan,2025,cpi_yoy,11.0,%,synthetic
+East Kazakhstan,2025,retail_trade,2914.3,bn KZT,synthetic
+Jambyl,2019,population,550.5,thousand persons,synthetic
+Jambyl,2019,avg_monthly_wage,225196,KZT,synthetic
+Jambyl,2019,unemployment_rate,4.6,%,synthetic
+Jambyl,2019,cpi_yoy,4.5,%,synthetic
+Jambyl,2019,retail_trade,1100.7,bn KZT,synthetic
+Jambyl,2020,population,556.2,thousand persons,synthetic
+Jambyl,2020,avg_monthly_wage,262067,KZT,synthetic
+Jambyl,2020,unemployment_rate,4.4,%,synthetic
+Jambyl,2020,cpi_yoy,7.8,%,synthetic
+Jambyl,2020,retail_trade,1235.5,bn KZT,synthetic
+Jambyl,2021,population,562.7,thousand persons,synthetic
+Jambyl,2021,avg_monthly_wage,292034,KZT,synthetic
+Jambyl,2021,unemployment_rate,4.4,%,synthetic
+Jambyl,2021,cpi_yoy,7.2,%,synthetic
+Jambyl,2021,retail_trade,1374.9,bn KZT,synthetic
+Jambyl,2022,population,570.2,thousand persons,synthetic
+Jambyl,2022,avg_monthly_wage,337856,KZT,synthetic
+Jambyl,2022,unemployment_rate,4.5,%,synthetic
+Jambyl,2022,cpi_yoy,16.1,%,synthetic
+Jambyl,2022,retail_trade,1500.9,bn KZT,synthetic
+Jambyl,2023,population,581.2,thousand persons,synthetic
+Jambyl,2023,avg_monthly_wage,365558,KZT,synthetic
+Jambyl,2023,unemployment_rate,4.4,%,synthetic
+Jambyl,2023,cpi_yoy,13.5,%,synthetic
+Jambyl,2023,retail_trade,1742.4,bn KZT,synthetic
+Jambyl,2024,population,587.8,thousand persons,synthetic
+Jambyl,2024,avg_monthly_wage,397801,KZT,synthetic
+Jambyl,2024,unemployment_rate,4.4,%,synthetic
+Jambyl,2024,cpi_yoy,8.4,%,synthetic
+Jambyl,2024,retail_trade,2090.3,bn KZT,synthetic
+Jambyl,2025,population,597.4,thousand persons,synthetic
+Jambyl,2025,avg_monthly_wage,431054,KZT,synthetic
+Jambyl,2025,unemployment_rate,4.3,%,synthetic
+Jambyl,2025,cpi_yoy,10.6,%,synthetic
+Jambyl,2025,retail_trade,2408.5,bn KZT,synthetic
+Jetisu,2022,population,650.5,thousand persons,synthetic
+Jetisu,2022,avg_monthly_wage,453910,KZT,synthetic
+Jetisu,2022,unemployment_rate,5.4,%,synthetic
+Jetisu,2022,cpi_yoy,14.7,%,synthetic
+Jetisu,2022,retail_trade,1848.2,bn KZT,synthetic
+Jetisu,2023,population,661.4,thousand persons,synthetic
+Jetisu,2023,avg_monthly_wage,515461,KZT,synthetic
+Jetisu,2023,unemployment_rate,5.2,%,synthetic
+Jetisu,2023,cpi_yoy,14.6,%,synthetic
+Jetisu,2023,retail_trade,2073.1,bn KZT,synthetic
+Jetisu,2024,population,666.0,thousand persons,synthetic
+Jetisu,2024,avg_monthly_wage,598789,KZT,synthetic
+Jetisu,2024,unemployment_rate,5.1,%,synthetic
+Jetisu,2024,cpi_yoy,7.8,%,synthetic
+Jetisu,2024,retail_trade,2402.5,bn KZT,synthetic
+Jetisu,2025,population,670.3,thousand persons,synthetic
+Jetisu,2025,avg_monthly_wage,651642,KZT,synthetic
+Jetisu,2025,unemployment_rate,4.8,%,synthetic
+Jetisu,2025,cpi_yoy,10.9,%,synthetic
+Jetisu,2025,retail_trade,2807.8,bn KZT,synthetic
+Karaganda,2019,population,819.5,thousand persons,synthetic
+Karaganda,2019,avg_monthly_wage,215549,KZT,synthetic
+Karaganda,2019,unemployment_rate,4.5,%,synthetic
+Karaganda,2019,cpi_yoy,6.4,%,synthetic
+Karaganda,2019,retail_trade,1931.8,bn KZT,synthetic
+Karaganda,2020,population,828.3,thousand persons,synthetic
+Karaganda,2020,avg_monthly_wage,241563,KZT,synthetic
+Karaganda,2020,unemployment_rate,4.6,%,synthetic
+Karaganda,2020,cpi_yoy,7.1,%,synthetic
+Karaganda,2020,retail_trade,2202.1,bn KZT,synthetic
+Karaganda,2021,population,832.6,thousand persons,synthetic
+Karaganda,2021,avg_monthly_wage,277548,KZT,synthetic
+Karaganda,2021,unemployment_rate,4.6,%,synthetic
+Karaganda,2021,cpi_yoy,8.4,%,synthetic
+Karaganda,2021,retail_trade,2412.0,bn KZT,synthetic
+Karaganda,2022,population,840.0,thousand persons,synthetic
+Karaganda,2022,avg_monthly_wage,305646,KZT,synthetic
+Karaganda,2022,unemployment_rate,4.6,%,synthetic
+Karaganda,2022,cpi_yoy,15.6,%,synthetic
+Karaganda,2022,retail_trade,2696.7,bn KZT,synthetic
+Karaganda,2023,population,853.1,thousand persons,synthetic
+Karaganda,2023,avg_monthly_wage,335080,KZT,synthetic
+Karaganda,2023,unemployment_rate,4.9,%,synthetic
+Karaganda,2023,cpi_yoy,15.7,%,synthetic
+Karaganda,2023,retail_trade,3078.5,bn KZT,synthetic
+Karaganda,2024,population,857.1,thousand persons,synthetic
+Karaganda,2024,avg_monthly_wage,387365,KZT,synthetic
+Karaganda,2024,unemployment_rate,5.0,%,synthetic
+Karaganda,2024,cpi_yoy,7.9,%,synthetic
+Karaganda,2024,retail_trade,3422.7,bn KZT,synthetic
+Karaganda,2025,population,866.0,thousand persons,synthetic
+Karaganda,2025,avg_monthly_wage,420703,KZT,synthetic
+Karaganda,2025,unemployment_rate,5.0,%,synthetic
+Karaganda,2025,cpi_yoy,11.2,%,synthetic
+Karaganda,2025,retail_trade,4022.6,bn KZT,synthetic
+Kostanay,2019,population,639.9,thousand persons,synthetic
+Kostanay,2019,avg_monthly_wage,273896,KZT,synthetic
+Kostanay,2019,unemployment_rate,4.7,%,synthetic
+Kostanay,2019,cpi_yoy,5.7,%,synthetic
+Kostanay,2019,retail_trade,1524.0,bn KZT,synthetic
+Kostanay,2020,population,645.5,thousand persons,synthetic
+Kostanay,2020,avg_monthly_wage,299645,KZT,synthetic
+Kostanay,2020,unemployment_rate,4.6,%,synthetic
+Kostanay,2020,cpi_yoy,5.9,%,synthetic
+Kostanay,2020,retail_trade,1676.1,bn KZT,synthetic
+Kostanay,2021,population,648.1,thousand persons,synthetic
+Kostanay,2021,avg_monthly_wage,340020,KZT,synthetic
+Kostanay,2021,unemployment_rate,4.5,%,synthetic
+Kostanay,2021,cpi_yoy,8.7,%,synthetic
+Kostanay,2021,retail_trade,1880.0,bn KZT,synthetic
+Kostanay,2022,population,652.4,thousand persons,synthetic
+Kostanay,2022,avg_monthly_wage,376682,KZT,synthetic
+Kostanay,2022,unemployment_rate,4.6,%,synthetic
+Kostanay,2022,cpi_yoy,14.0,%,synthetic
+Kostanay,2022,retail_trade,2197.9,bn KZT,synthetic
+Kostanay,2023,population,665.3,thousand persons,synthetic
+Kostanay,2023,avg_monthly_wage,435293,KZT,synthetic
+Kostanay,2023,unemployment_rate,4.4,%,synthetic
+Kostanay,2023,cpi_yoy,14.4,%,synthetic
+Kostanay,2023,retail_trade,2443.1,bn KZT,synthetic
+Kostanay,2024,population,670.3,thousand persons,synthetic
+Kostanay,2024,avg_monthly_wage,506151,KZT,synthetic
+Kostanay,2024,unemployment_rate,4.2,%,synthetic
+Kostanay,2024,cpi_yoy,9.6,%,synthetic
+Kostanay,2024,retail_trade,2921.6,bn KZT,synthetic
+Kostanay,2025,population,676.9,thousand persons,synthetic
+Kostanay,2025,avg_monthly_wage,554204,KZT,synthetic
+Kostanay,2025,unemployment_rate,3.9,%,synthetic
+Kostanay,2025,cpi_yoy,11.0,%,synthetic
+Kostanay,2025,retail_trade,3483.2,bn KZT,synthetic
+Kyzylorda,2019,population,555.7,thousand persons,synthetic
+Kyzylorda,2019,avg_monthly_wage,289704,KZT,synthetic
+Kyzylorda,2019,unemployment_rate,4.2,%,synthetic
+Kyzylorda,2019,cpi_yoy,6.3,%,synthetic
+Kyzylorda,2019,retail_trade,1411.1,bn KZT,synthetic
+Kyzylorda,2020,population,562.0,thousand persons,synthetic
+Kyzylorda,2020,avg_monthly_wage,321738,KZT,synthetic
+Kyzylorda,2020,unemployment_rate,4.1,%,synthetic
+Kyzylorda,2020,cpi_yoy,5.8,%,synthetic
+Kyzylorda,2020,retail_trade,1576.2,bn KZT,synthetic
+Kyzylorda,2021,population,573.9,thousand persons,synthetic
+Kyzylorda,2021,avg_monthly_wage,357585,KZT,synthetic
+Kyzylorda,2021,unemployment_rate,4.1,%,synthetic
+Kyzylorda,2021,cpi_yoy,7.6,%,synthetic
+Kyzylorda,2021,retail_trade,1859.3,bn KZT,synthetic
+Kyzylorda,2022,population,577.8,thousand persons,synthetic
+Kyzylorda,2022,avg_monthly_wage,406113,KZT,synthetic
+Kyzylorda,2022,unemployment_rate,3.8,%,synthetic
+Kyzylorda,2022,cpi_yoy,15.6,%,synthetic
+Kyzylorda,2022,retail_trade,2118.7,bn KZT,synthetic
+Kyzylorda,2023,population,587.1,thousand persons,synthetic
+Kyzylorda,2023,avg_monthly_wage,450109,KZT,synthetic
+Kyzylorda,2023,unemployment_rate,3.8,%,synthetic
+Kyzylorda,2023,cpi_yoy,14.4,%,synthetic
+Kyzylorda,2023,retail_trade,2437.2,bn KZT,synthetic
+Kyzylorda,2024,population,599.6,thousand persons,synthetic
+Kyzylorda,2024,avg_monthly_wage,520806,KZT,synthetic
+Kyzylorda,2024,unemployment_rate,3.9,%,synthetic
+Kyzylorda,2024,cpi_yoy,8.6,%,synthetic
+Kyzylorda,2024,retail_trade,2777.4,bn KZT,synthetic
+Kyzylorda,2025,population,608.9,thousand persons,synthetic
+Kyzylorda,2025,avg_monthly_wage,599810,KZT,synthetic
+Kyzylorda,2025,unemployment_rate,3.7,%,synthetic
+Kyzylorda,2025,cpi_yoy,12.2,%,synthetic
+Kyzylorda,2025,retail_trade,3052.1,bn KZT,synthetic
+Mangystau,2019,population,751.5,thousand persons,synthetic
+Mangystau,2019,avg_monthly_wage,225931,KZT,synthetic
+Mangystau,2019,unemployment_rate,5.3,%,synthetic
+Mangystau,2019,cpi_yoy,5.5,%,synthetic
+Mangystau,2019,retail_trade,1612.2,bn KZT,synthetic
+Mangystau,2020,population,757.0,thousand persons,synthetic
+Mangystau,2020,avg_monthly_wage,257286,KZT,synthetic
+Mangystau,2020,unemployment_rate,5.3,%,synthetic
+Mangystau,2020,cpi_yoy,7.4,%,synthetic
+Mangystau,2020,retail_trade,1893.7,bn KZT,synthetic
+Mangystau,2021,population,773.0,thousand persons,synthetic
+Mangystau,2021,avg_monthly_wage,277972,KZT,synthetic
+Mangystau,2021,unemployment_rate,5.0,%,synthetic
+Mangystau,2021,cpi_yoy,8.0,%,synthetic
+Mangystau,2021,retail_trade,2076.2,bn KZT,synthetic
+Mangystau,2022,population,788.3,thousand persons,synthetic
+Mangystau,2022,avg_monthly_wage,304528,KZT,synthetic
+Mangystau,2022,unemployment_rate,5.2,%,synthetic
+Mangystau,2022,cpi_yoy,16.2,%,synthetic
+Mangystau,2022,retail_trade,2466.9,bn KZT,synthetic
+Mangystau,2023,population,794.1,thousand persons,synthetic
+Mangystau,2023,avg_monthly_wage,350843,KZT,synthetic
+Mangystau,2023,unemployment_rate,5.0,%,synthetic
+Mangystau,2023,cpi_yoy,14.5,%,synthetic
+Mangystau,2023,retail_trade,2701.1,bn KZT,synthetic
+Mangystau,2024,population,807.3,thousand persons,synthetic
+Mangystau,2024,avg_monthly_wage,387320,KZT,synthetic
+Mangystau,2024,unemployment_rate,5.1,%,synthetic
+Mangystau,2024,cpi_yoy,9.7,%,synthetic
+Mangystau,2024,retail_trade,3109.4,bn KZT,synthetic
+Mangystau,2025,population,813.4,thousand persons,synthetic
+Mangystau,2025,avg_monthly_wage,438249,KZT,synthetic
+Mangystau,2025,unemployment_rate,5.0,%,synthetic
+Mangystau,2025,cpi_yoy,11.4,%,synthetic
+Mangystau,2025,retail_trade,3606.2,bn KZT,synthetic
+North Kazakhstan,2019,population,649.2,thousand persons,synthetic
+North Kazakhstan,2019,avg_monthly_wage,244690,KZT,synthetic
+North Kazakhstan,2019,unemployment_rate,4.3,%,synthetic
+North Kazakhstan,2019,cpi_yoy,5.7,%,synthetic
+North Kazakhstan,2019,retail_trade,1135.8,bn KZT,synthetic
+North Kazakhstan,2020,population,661.1,thousand persons,synthetic
+North Kazakhstan,2020,avg_monthly_wage,270645,KZT,synthetic
+North Kazakhstan,2020,unemployment_rate,4.1,%,synthetic
+North Kazakhstan,2020,cpi_yoy,7.7,%,synthetic
+North Kazakhstan,2020,retail_trade,1356.1,bn KZT,synthetic
+North Kazakhstan,2021,population,674.6,thousand persons,synthetic
+North Kazakhstan,2021,avg_monthly_wage,304066,KZT,synthetic
+North Kazakhstan,2021,unemployment_rate,4.3,%,synthetic
+North Kazakhstan,2021,cpi_yoy,8.0,%,synthetic
+North Kazakhstan,2021,retail_trade,1569.7,bn KZT,synthetic
+North Kazakhstan,2022,population,678.5,thousand persons,synthetic
+North Kazakhstan,2022,avg_monthly_wage,346883,KZT,synthetic
+North Kazakhstan,2022,unemployment_rate,4.4,%,synthetic
+North Kazakhstan,2022,cpi_yoy,15.5,%,synthetic
+North Kazakhstan,2022,retail_trade,1704.5,bn KZT,synthetic
+North Kazakhstan,2023,population,692.8,thousand persons,synthetic
+North Kazakhstan,2023,avg_monthly_wage,403043,KZT,synthetic
+North Kazakhstan,2023,unemployment_rate,4.5,%,synthetic
+North Kazakhstan,2023,cpi_yoy,14.2,%,synthetic
+North Kazakhstan,2023,retail_trade,1879.9,bn KZT,synthetic
+North Kazakhstan,2024,population,698.5,thousand persons,synthetic
+North Kazakhstan,2024,avg_monthly_wage,464216,KZT,synthetic
+North Kazakhstan,2024,unemployment_rate,4.5,%,synthetic
+North Kazakhstan,2024,cpi_yoy,9.2,%,synthetic
+North Kazakhstan,2024,retail_trade,2230.8,bn KZT,synthetic
+North Kazakhstan,2025,population,703.0,thousand persons,synthetic
+North Kazakhstan,2025,avg_monthly_wage,513970,KZT,synthetic
+North Kazakhstan,2025,unemployment_rate,4.3,%,synthetic
+North Kazakhstan,2025,cpi_yoy,11.6,%,synthetic
+North Kazakhstan,2025,retail_trade,2615.5,bn KZT,synthetic
+Pavlodar,2019,population,747.3,thousand persons,synthetic
+Pavlodar,2019,avg_monthly_wage,239348,KZT,synthetic
+Pavlodar,2019,unemployment_rate,4.6,%,synthetic
+Pavlodar,2019,cpi_yoy,6.1,%,synthetic
+Pavlodar,2019,retail_trade,1629.8,bn KZT,synthetic
+Pavlodar,2020,population,763.0,thousand persons,synthetic
+Pavlodar,2020,avg_monthly_wage,261273,KZT,synthetic
+Pavlodar,2020,unemployment_rate,4.4,%,synthetic
+Pavlodar,2020,cpi_yoy,6.4,%,synthetic
+Pavlodar,2020,retail_trade,1891.3,bn KZT,synthetic
+Pavlodar,2021,population,769.0,thousand persons,synthetic
+Pavlodar,2021,avg_monthly_wage,294378,KZT,synthetic
+Pavlodar,2021,unemployment_rate,4.1,%,synthetic
+Pavlodar,2021,cpi_yoy,6.9,%,synthetic
+Pavlodar,2021,retail_trade,2148.1,bn KZT,synthetic
+Pavlodar,2022,population,784.8,thousand persons,synthetic
+Pavlodar,2022,avg_monthly_wage,325492,KZT,synthetic
+Pavlodar,2022,unemployment_rate,3.8,%,synthetic
+Pavlodar,2022,cpi_yoy,15.7,%,synthetic
+Pavlodar,2022,retail_trade,2516.3,bn KZT,synthetic
+Pavlodar,2023,population,794.2,thousand persons,synthetic
+Pavlodar,2023,avg_monthly_wage,366021,KZT,synthetic
+Pavlodar,2023,unemployment_rate,4.0,%,synthetic
+Pavlodar,2023,cpi_yoy,15.0,%,synthetic
+Pavlodar,2023,retail_trade,2869.9,bn KZT,synthetic
+Pavlodar,2024,population,798.9,thousand persons,synthetic
+Pavlodar,2024,avg_monthly_wage,406162,KZT,synthetic
+Pavlodar,2024,unemployment_rate,4.0,%,synthetic
+Pavlodar,2024,cpi_yoy,8.7,%,synthetic
+Pavlodar,2024,retail_trade,3095.5,bn KZT,synthetic
+Pavlodar,2025,population,813.9,thousand persons,synthetic
+Pavlodar,2025,avg_monthly_wage,459827,KZT,synthetic
+Pavlodar,2025,unemployment_rate,3.7,%,synthetic
+Pavlodar,2025,cpi_yoy,10.2,%,synthetic
+Pavlodar,2025,retail_trade,3445.2,bn KZT,synthetic
+Turkistan,2019,population,377.5,thousand persons,synthetic
+Turkistan,2019,avg_monthly_wage,307095,KZT,synthetic
+Turkistan,2019,unemployment_rate,4.1,%,synthetic
+Turkistan,2019,cpi_yoy,4.8,%,synthetic
+Turkistan,2019,retail_trade,705.3,bn KZT,synthetic
+Turkistan,2020,population,380.3,thousand persons,synthetic
+Turkistan,2020,avg_monthly_wage,355099,KZT,synthetic
+Turkistan,2020,unemployment_rate,3.8,%,synthetic
+Turkistan,2020,cpi_yoy,6.8,%,synthetic
+Turkistan,2020,retail_trade,792.2,bn KZT,synthetic
+Turkistan,2021,population,382.4,thousand persons,synthetic
+Turkistan,2021,avg_monthly_wage,398563,KZT,synthetic
+Turkistan,2021,unemployment_rate,3.7,%,synthetic
+Turkistan,2021,cpi_yoy,8.2,%,synthetic
+Turkistan,2021,retail_trade,929.2,bn KZT,synthetic
+Turkistan,2022,population,384.4,thousand persons,synthetic
+Turkistan,2022,avg_monthly_wage,437829,KZT,synthetic
+Turkistan,2022,unemployment_rate,3.9,%,synthetic
+Turkistan,2022,cpi_yoy,14.3,%,synthetic
+Turkistan,2022,retail_trade,1000.7,bn KZT,synthetic
+Turkistan,2023,population,390.3,thousand persons,synthetic
+Turkistan,2023,avg_monthly_wage,493616,KZT,synthetic
+Turkistan,2023,unemployment_rate,3.6,%,synthetic
+Turkistan,2023,cpi_yoy,14.6,%,synthetic
+Turkistan,2023,retail_trade,1174.3,bn KZT,synthetic
+Turkistan,2024,population,393.4,thousand persons,synthetic
+Turkistan,2024,avg_monthly_wage,567835,KZT,synthetic
+Turkistan,2024,unemployment_rate,3.8,%,synthetic
+Turkistan,2024,cpi_yoy,8.5,%,synthetic
+Turkistan,2024,retail_trade,1381.2,bn KZT,synthetic
+Turkistan,2025,population,399.2,thousand persons,synthetic
+Turkistan,2025,avg_monthly_wage,639792,KZT,synthetic
+Turkistan,2025,unemployment_rate,3.9,%,synthetic
+Turkistan,2025,cpi_yoy,11.3,%,synthetic
+Turkistan,2025,retail_trade,1565.6,bn KZT,synthetic
+Ulytau,2022,population,855.2,thousand persons,synthetic
+Ulytau,2022,avg_monthly_wage,450784,KZT,synthetic
+Ulytau,2022,unemployment_rate,5.2,%,synthetic
+Ulytau,2022,cpi_yoy,14.6,%,synthetic
+Ulytau,2022,retail_trade,3315.7,bn KZT,synthetic
+Ulytau,2023,population,862.4,thousand persons,synthetic
+Ulytau,2023,avg_monthly_wage,490429,KZT,synthetic
+Ulytau,2023,unemployment_rate,5.0,%,synthetic
+Ulytau,2023,cpi_yoy,13.8,%,synthetic
+Ulytau,2023,retail_trade,3897.5,bn KZT,synthetic
+Ulytau,2024,population,876.7,thousand persons,synthetic
+Ulytau,2024,avg_monthly_wage,546352,KZT,synthetic
+Ulytau,2024,unemployment_rate,5.1,%,synthetic
+Ulytau,2024,cpi_yoy,9.4,%,synthetic
+Ulytau,2024,retail_trade,4657.3,bn KZT,synthetic
+Ulytau,2025,population,890.8,thousand persons,synthetic
+Ulytau,2025,avg_monthly_wage,631174,KZT,synthetic
+Ulytau,2025,unemployment_rate,5.1,%,synthetic
+Ulytau,2025,cpi_yoy,11.5,%,synthetic
+Ulytau,2025,retail_trade,5605.6,bn KZT,synthetic
+West Kazakhstan,2019,population,710.7,thousand persons,synthetic
+West Kazakhstan,2019,avg_monthly_wage,283923,KZT,synthetic
+West Kazakhstan,2019,unemployment_rate,4.0,%,synthetic
+West Kazakhstan,2019,cpi_yoy,5.9,%,synthetic
+West Kazakhstan,2019,retail_trade,1748.9,bn KZT,synthetic
+West Kazakhstan,2020,population,717.3,thousand persons,synthetic
+West Kazakhstan,2020,avg_monthly_wage,317266,KZT,synthetic
+West Kazakhstan,2020,unemployment_rate,3.9,%,synthetic
+West Kazakhstan,2020,cpi_yoy,7.8,%,synthetic
+West Kazakhstan,2020,retail_trade,2041.2,bn KZT,synthetic
+West Kazakhstan,2021,population,725.6,thousand persons,synthetic
+West Kazakhstan,2021,avg_monthly_wage,365477,KZT,synthetic
+West Kazakhstan,2021,unemployment_rate,3.6,%,synthetic
+West Kazakhstan,2021,cpi_yoy,8.5,%,synthetic
+West Kazakhstan,2021,retail_trade,2434.4,bn KZT,synthetic
+West Kazakhstan,2022,population,736.9,thousand persons,synthetic
+West Kazakhstan,2022,avg_monthly_wage,414618,KZT,synthetic
+West Kazakhstan,2022,unemployment_rate,3.4,%,synthetic
+West Kazakhstan,2022,cpi_yoy,15.9,%,synthetic
+West Kazakhstan,2022,retail_trade,2773.9,bn KZT,synthetic
+West Kazakhstan,2023,population,744.9,thousand persons,synthetic
+West Kazakhstan,2023,avg_monthly_wage,477618,KZT,synthetic
+West Kazakhstan,2023,unemployment_rate,3.4,%,synthetic
+West Kazakhstan,2023,cpi_yoy,14.9,%,synthetic
+West Kazakhstan,2023,retail_trade,3148.0,bn KZT,synthetic
+West Kazakhstan,2024,population,748.2,thousand persons,synthetic
+West Kazakhstan,2024,avg_monthly_wage,533998,KZT,synthetic
+West Kazakhstan,2024,unemployment_rate,3.2,%,synthetic
+West Kazakhstan,2024,cpi_yoy,7.5,%,synthetic
+West Kazakhstan,2024,retail_trade,3441.5,bn KZT,synthetic
+West Kazakhstan,2025,population,756.7,thousand persons,synthetic
+West Kazakhstan,2025,avg_monthly_wage,601627,KZT,synthetic
+West Kazakhstan,2025,unemployment_rate,3.1,%,synthetic
+West Kazakhstan,2025,cpi_yoy,11.9,%,synthetic
+West Kazakhstan,2025,retail_trade,4005.3,bn KZT,synthetic
+Astana,2019,population,1145.9,thousand persons,synthetic
+Astana,2019,avg_monthly_wage,349983,KZT,synthetic
+Astana,2019,unemployment_rate,3.6,%,synthetic
+Astana,2019,cpi_yoy,4.4,%,synthetic
+Astana,2019,retail_trade,4200.3,bn KZT,synthetic
+Astana,2020,population,1154.5,thousand persons,synthetic
+Astana,2020,avg_monthly_wage,404653,KZT,synthetic
+Astana,2020,unemployment_rate,3.6,%,synthetic
+Astana,2020,cpi_yoy,7.8,%,synthetic
+Astana,2020,retail_trade,4931.3,bn KZT,synthetic
+Astana,2021,population,1163.6,thousand persons,synthetic
+Astana,2021,avg_monthly_wage,447502,KZT,synthetic
+Astana,2021,unemployment_rate,3.4,%,synthetic
+Astana,2021,cpi_yoy,7.1,%,synthetic
+Astana,2021,retail_trade,5506.3,bn KZT,synthetic
+Astana,2022,population,1172.4,thousand persons,synthetic
+Astana,2022,avg_monthly_wage,513624,KZT,synthetic
+Astana,2022,unemployment_rate,3.3,%,synthetic
+Astana,2022,cpi_yoy,15.2,%,synthetic
+Astana,2022,retail_trade,6477.0,bn KZT,synthetic
+Astana,2023,population,1181.1,thousand persons,synthetic
+Astana,2023,avg_monthly_wage,576107,KZT,synthetic
+Astana,2023,unemployment_rate,3.5,%,synthetic
+Astana,2023,cpi_yoy,14.5,%,synthetic
+Astana,2023,retail_trade,7750.5,bn KZT,synthetic
+Astana,2024,population,1195.8,thousand persons,synthetic
+Astana,2024,avg_monthly_wage,632035,KZT,synthetic
+Astana,2024,unemployment_rate,3.4,%,synthetic
+Astana,2024,cpi_yoy,9.0,%,synthetic
+Astana,2024,retail_trade,8914.4,bn KZT,synthetic
+Astana,2025,population,1210.2,thousand persons,synthetic
+Astana,2025,avg_monthly_wage,688755,KZT,synthetic
+Astana,2025,unemployment_rate,3.7,%,synthetic
+Astana,2025,cpi_yoy,12.1,%,synthetic
+Astana,2025,retail_trade,10532.5,bn KZT,synthetic
+Almaty City,2019,population,2109.3,thousand persons,synthetic
+Almaty City,2019,avg_monthly_wage,322117,KZT,synthetic
+Almaty City,2019,unemployment_rate,4.2,%,synthetic
+Almaty City,2019,cpi_yoy,6.2,%,synthetic
+Almaty City,2019,retail_trade,7627.5,bn KZT,synthetic
+Almaty City,2020,population,2142.4,thousand persons,synthetic
+Almaty City,2020,avg_monthly_wage,367798,KZT,synthetic
+Almaty City,2020,unemployment_rate,4.0,%,synthetic
+Almaty City,2020,cpi_yoy,7.0,%,synthetic
+Almaty City,2020,retail_trade,8538.7,bn KZT,synthetic
+Almaty City,2021,population,2155.3,thousand persons,synthetic
+Almaty City,2021,avg_monthly_wage,413176,KZT,synthetic
+Almaty City,2021,unemployment_rate,4.0,%,synthetic
+Almaty City,2021,cpi_yoy,7.3,%,synthetic
+Almaty City,2021,retail_trade,9816.7,bn KZT,synthetic
+Almaty City,2022,population,2168.5,thousand persons,synthetic
+Almaty City,2022,avg_monthly_wage,452219,KZT,synthetic
+Almaty City,2022,unemployment_rate,3.9,%,synthetic
+Almaty City,2022,cpi_yoy,15.7,%,synthetic
+Almaty City,2022,retail_trade,10960.9,bn KZT,synthetic
+Almaty City,2023,population,2184.7,thousand persons,synthetic
+Almaty City,2023,avg_monthly_wage,517196,KZT,synthetic
+Almaty City,2023,unemployment_rate,4.1,%,synthetic
+Almaty City,2023,cpi_yoy,15.6,%,synthetic
+Almaty City,2023,retail_trade,13120.1,bn KZT,synthetic
+Almaty City,2024,population,2219.8,thousand persons,synthetic
+Almaty City,2024,avg_monthly_wage,588961,KZT,synthetic
+Almaty City,2024,unemployment_rate,4.0,%,synthetic
+Almaty City,2024,cpi_yoy,9.2,%,synthetic
+Almaty City,2024,retail_trade,14774.5,bn KZT,synthetic
+Almaty City,2025,population,2235.8,thousand persons,synthetic
+Almaty City,2025,avg_monthly_wage,682918,KZT,synthetic
+Almaty City,2025,unemployment_rate,3.7,%,synthetic
+Almaty City,2025,cpi_yoy,11.8,%,synthetic
+Almaty City,2025,retail_trade,16573.7,bn KZT,synthetic
+Shymkent,2019,population,1512.0,thousand persons,synthetic
+Shymkent,2019,avg_monthly_wage,281400,KZT,synthetic
+Shymkent,2019,unemployment_rate,5.2,%,synthetic
+Shymkent,2019,cpi_yoy,6.4,%,synthetic
+Shymkent,2019,retail_trade,4254.5,bn KZT,synthetic
+Shymkent,2020,population,1543.4,thousand persons,synthetic
+Shymkent,2020,avg_monthly_wage,325549,KZT,synthetic
+Shymkent,2020,unemployment_rate,5.0,%,synthetic
+Shymkent,2020,cpi_yoy,6.1,%,synthetic
+Shymkent,2020,retail_trade,4686.1,bn KZT,synthetic
+Shymkent,2021,population,1561.1,thousand persons,synthetic
+Shymkent,2021,avg_monthly_wage,358748,KZT,synthetic
+Shymkent,2021,unemployment_rate,4.9,%,synthetic
+Shymkent,2021,cpi_yoy,9.1,%,synthetic
+Shymkent,2021,retail_trade,5114.6,bn KZT,synthetic
+Shymkent,2022,population,1584.5,thousand persons,synthetic
+Shymkent,2022,avg_monthly_wage,412194,KZT,synthetic
+Shymkent,2022,unemployment_rate,5.1,%,synthetic
+Shymkent,2022,cpi_yoy,14.3,%,synthetic
+Shymkent,2022,retail_trade,5748.1,bn KZT,synthetic
+Shymkent,2023,population,1615.2,thousand persons,synthetic
+Shymkent,2023,avg_monthly_wage,450608,KZT,synthetic
+Shymkent,2023,unemployment_rate,5.0,%,synthetic
+Shymkent,2023,cpi_yoy,15.6,%,synthetic
+Shymkent,2023,retail_trade,6816.6,bn KZT,synthetic
+Shymkent,2024,population,1623.3,thousand persons,synthetic
+Shymkent,2024,avg_monthly_wage,501151,KZT,synthetic
+Shymkent,2024,unemployment_rate,5.1,%,synthetic
+Shymkent,2024,cpi_yoy,9.4,%,synthetic
+Shymkent,2024,retail_trade,7449.8,bn KZT,synthetic
+Shymkent,2025,population,1643.0,thousand persons,synthetic
+Shymkent,2025,avg_monthly_wage,552952,KZT,synthetic
+Shymkent,2025,unemployment_rate,5.0,%,synthetic
+Shymkent,2025,cpi_yoy,11.2,%,synthetic
+Shymkent,2025,retail_trade,8899.9,bn KZT,synthetic
