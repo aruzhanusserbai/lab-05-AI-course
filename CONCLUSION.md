@@ -21,7 +21,16 @@ Give the numbers before -> after for that layer (correct / wrong / no answer, ou
 whether it changed what the agent *can do* or only what it *admits*. If no layer changed the
 number of correct answers, say so and explain what the layers did change instead.
 
-(write here)
+Layer_1 changed my results the most, before it was 16 / 4 / 4 -> 18 / 6 / 0 and this is after. It was the only model 
+that increased the correct answer's number. Without Layer_1 4 alias questions answer was no answer, because the loop stopped
+after it threw ToolError. With Layer_1 instead of ending loop with error, it sent the error message back to the model, so 
+it can see the error message like why it stopped and what shoud it do to handle it, in the message it says call list_region.
+So tha is how it got correct answers to the questions number 23 and 24. For the questions number 21 and 22 it got wrong answer, 
+because it picked the wrong region names.
+(There are actually 24 questions but in your question you asking out of 20, so I am consuming that this is just a mistake, if it is not, then maybe you didn't
+count the alias questions because they are the ones that changed its results. So Layer_1 and others didn't changed any results into correct)
+Layer_2 changed nothing, before 18 / 6 / 0 -> 18 / 6 / 0 after.
+Layer_3 changed 18 / 6 / 0 -> 18 / 4 / 2. It did not added any correct answers, but it turned q18 and q22 that were wrong into no answer. So it changed only what the agent admits, not what it can do.
 
 ## 2. One failure the full harness did not fix
 
