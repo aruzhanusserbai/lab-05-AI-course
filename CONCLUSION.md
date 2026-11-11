@@ -39,7 +39,11 @@ Pick one question that the full harness (layer 3) still gets wrong or refuses. G
 the model do instead? Name one thing you would add to the harness, and what it would cost
 (extra model calls, tokens, time, or a new way to fail).
 
-(write here)
+q18. Model first called get_series for Jambyl, cpi_yoy, 2022-2025 and got the right values, it was 16.1 in 2022 and 10.6 in 2025. 
+It went wrong at the second step, so instead of calculating 16.1 - 10.6 (5.5 percentage points), it called calculate with (16.1 - 10.6)/100 and got 0.055. 
+Then it wrote ANSWER: 0.55, which is not in any tool output. Layer 3 sent it back, but model repeated the same wrong calculation, Layer 2 stopped the repeated call, the model wrote 0.55 again, and the answer became UNVERIFIED. 
+The harness stopped the wrong number, but it couldn't tell the model that the formula was wrong.
+I would add a self check step. After the final answer, the harness asks the model to reread the question and check that its formula matches what it was asking. The cost is one extra model call for every question, so it will be about 24 more calls, more tokens and more time, even when the answer is already right. It also add a new way to fail, model may doubt a correct answer and change it to a wrong one.
 
 ## 3. Workflow or agent for the monthly ranking?
 
@@ -48,7 +52,10 @@ indicator in one year". Would you ship the fixed workflow or the agent? Use the 
 number of model calls, the tokens and the time you measured in Part 1. Then say in one sentence
 what kind of question would make you choose the other one.
 
-(write here)
+I would ship the fixed workflow one. The monthly ranking always has the same shape, which is exactly what the workflow do. In Part 1, on the 15
+fixed shape questions, the workflow got 13/15 right and the agent only 9/15. Workflow also used 15 model calls instead of 26 model calls, fewer tokens about 5 times(3852 then 19835) and was about 3 times faster (16.5 s then 48.7 s). Also, the workflow got all 5 rank questions right, because
+plain code picks the first or the last region from the sorted list. The agent got q08 and q11 wrong even with all three layers on, because the model picked the region by himself.
+I would choose the agent for questions whose shape is not fixed, like a percent change between two years, which needs several steps like getting two values and then calculating it.
 
 ---
 
